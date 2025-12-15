@@ -1,0 +1,51 @@
+Log start time: 2025-12-10T16:58:12.327822
+Working dir: D:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1
+
+Logging started. Log file: D:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\terminal_output\LeNet5_MNIST_20251210_165812.txt
+Traceback (most recent call last):
+  File "d:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\LeNet_5_1.py", line 19, in <module>
+    from sklearn.metrics import confusion_matrix
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\__init__.py", line 73, in <module>
+    from .base import clone  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\base.py", line 19, in <module>
+    from .utils._metadata_requests import _MetadataRequester, _routing_enabled
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\utils\__init__.py", line 9, in <module>
+    from ._chunking import gen_batches, gen_even_slices
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\utils\_chunking.py", line 11, in <module>
+    from ._param_validation import Interval, validate_params
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\utils\_param_validation.py", line 17, in <module>
+    from .validation import _is_arraylike_not_scalar
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from ..utils._array_api import _asarray_with_order, _is_numpy_namespace, get_namespace
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\utils\_array_api.py", line 20, in <module>
+    from .fixes import parse_version
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\sklearn\utils\fixes.py", line 20, in <module>
+    import pandas as pd
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\__init__.py", line 61, in <module>
+    from pandas.core.api import (
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\api.py", line 47, in <module>
+    from pandas.core.groupby import (
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\groupby\generic.py", line 68, in <module>
+    from pandas.core.frame import DataFrame
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\frame.py", line 153, in <module>
+    from pandas.core.generic import (
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\generic.py", line 155, in <module>
+    from pandas.core import (
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\indexing.py", line 80, in <module>
+    from pandas.core.indexes.api import (
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\indexes\api.py", line 28, in <module>
+    from pandas.core.indexes.datetimes import DatetimeIndex
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\indexes\datetimes.py", line 47, in <module>
+    from pandas.core.indexes.datetimelike import DatetimeTimedeltaMixin
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\indexes\datetimelike.py", line 430, in <module>
+    class DatetimeTimedeltaMixin(DatetimeIndexOpsMixin, ABC):
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\core\indexes\datetimelike.py", line 524, in DatetimeTimedeltaMixin
+    @doc(DatetimeLikeArrayMixin.inferred_freq)
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\pandas\util\_decorators.py", line 363, in decorator
+    def decorator(decorated: F) -> F:
+
+KeyboardInterrupt

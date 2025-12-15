@@ -1,0 +1,157 @@
+1 智能传感器技术.吴盘龙 [M]. 北京：中国电力出版社，2015: 6.
+2 工业智能传感器白皮书 [R]. 北京：赛迪顾问股份有限公司，2021.
+3 Von Krogh, G. Artificial intelligence in organizations: New opportunities for phenomenon-based theorizing. Acad. Manag. Discov. 2018.
+4 ADI MEMS 传感器技术白皮书 [R]. 诺伍德（美国）: ADI 公司，2012-2022.
+5 2022-2027 中国传感器制造行业市场前瞻与投资战略规划分析报告 [R]. 深圳：前瞻产业研究院，2022.
+6 S. Middelhoek & A.C. Hoogerwerf, Smart Sensors: When and Where?. Sensors & Actuators
+7 J.M. Giachino, Smart Sensors; Sensors & Actuators Vol.10 (1986) pp.239.
+8 K.D. Wise, Integrated Sensors: Interfacing Electronics to a Non - electronic World, Sensors & Actuators Vol.2 (1982) pp.229.
+9 J.E. Briggs, Sensors in Distributed Instrumentation Systems, Sensors & Actuators, Vol.10 (1986) pp.249.
+
+[10] Khujamatov Kh.E, Khasanov D.T., Reynpazov E.N. Modeling and Research of Automatic Sun Tracking System on the bases of IoT and Arduino UNO // International Conference on Information Science and Communications Technologies ICISCT 2019, Tashkent, Uzbekistan - 2019. DOI: 10.1109/ICISCT47365.2019.9019103
+[11] Khujamatov Kh.E, Khasanov D.T., Reynpazov E.N. Research and Modeling Adaptive Management of Hybrid Power Supply Systems for Object Telecommunication based on IoT // International Conference on Information Sciences and Communications Technologies ICISCT 2019, Tashkent, Uzbekistan - 2019. DOI: 10.1109/ICISCT47365.2019.901831
+[12] Kh. Khujamatov, D. Khasanov, E. Reynpazov, N. Akhmedov. Networking and Computing in Internet of Things and Cyber-Physical Systems // The 14th IEEE International Conference Application of Information Communication Technologies, 07-09 October 2020, Tashkent, Uzbekistan. DOI: 10.1109/AICT50176.2020.9368793
+[13] Ernazar Reynpazov, Nurshod Akhmedov, Doston Khasanov. Blockchain for 5G Healthcare Architecture // 2020 International Conference on Information Science and Communications Technologies (ICISCT), Tashkent, Uzbekistan - 2020. DOI: 10.1109/ICISCT50599.2020.9351398
+[14] D.A.Davronbekov, Rakhimov B.N., Alimdjanov X.F., Axmedov B.I. Review of Wearable Wireless Sensor Network // Scientific Collection «InterConf», (41): Proceedings of the 7th International Scientific and Practical Conference «Scientific Horizon in the Context of Social - Crises», February 6 - 8, 2021, Tokyo, Japan: Otsuki Press, 2021. p.1052 - 1058
+[15] Kh.E. Khujamatov, E.N. Reynpazov, A.P. Lazarev, "Modern methods of testing and information security problems in IoT," Bulletin of TUIT: Management and Communication Technologies, International scientific and technical journal. Tashkent. 2021, Volume 4. Article 4. p.11.
+
+16. J. Van der Spiegel, Computational Sensors of the 21st Century, Extended Abstracts of International Symposium on Sensors in the 21st Century (1992 Tokyo) pp.51.
+17. Mackintosh International, Sensors, Vol.24 (1981).
+18. Digital smart transistor DST3000, Journal of SICE 22(12) pp.1054 (1983) (in Japanese).
+19. K. Ikeda et al., Silicon Pressure Sensor with Resonant Strain Gauges Built into Diaphragm, Technical Digest of the 7th Sensor Symposium, Tokyo,(1988), pp.55.
+20. A. Ikegami and M. Kaneyasu: Olfactory Detection Using Integrated Sensor, Digest of Technical papers for Transducers'85 pp.136 (1985).
+
+21 Cole, M., Ulivieri, N., García-Guzmàn, J. and Gardner, J.W. (2003) ‘Parametric model of a polymeric chemoresistor for use in smart sensor design and simulation’, Microelectronics Journal, Vol. 34, No. 9, pp.865–875. 
+22 De Los Santos, H.J. and Richards, R.J. (2001) MEMS for RF/Microwave Wireless Applications: The Next Wave – Part II, Irvine, CA: Coventor Inc. (also published in Microwave Journal). 
+23 Denko, K.K.S. and Endo, M. (2002) Very Small Nano-Carbon-Composite Gear Developed, Kitagawa Industries Co., Ltd., Seiko Instruments Inc. 
+24 Löfdahl, L. and Gad-el-Hak, M. (1999b), “MEMS applications in turbulence and flow control”, Progress in Aerospace Sciences, Vol. 35 No. 2, pp. 101 - 203.
+25 Cinalla, V., Psalt, J. and Ambacher, O. (2007), “Group III nitride and SiC based MEMS and NEMS: materials, properties, technology and applications”, Journal of Applied Physics, Vol. 40 No. 20, pp. 6386 - 6434.
+26 Stemme, G. (1991), “Resonant silicon sensors”, Journal of Micromechanics and Microengineering, Vol. 1 No. 2, p. 113.
+
+Jian, L., et al. (2003) ‘SU-8 based deep X-ray lithography/LIGA, micromachining and microfabrication process technology VIII’, in J.A. Yasaitis, M.A. Perez-Maher and J.M. Karam (Eds). *Proceedings of SPIE*, Vol. 4979.
+
+Keren, K., Berman, R.S., Buchstab, E., Sivan, U. and Braun, E. (2003) ‘DNA-templated carbon nanotube field-effect transistor’, *Science*, Vol. 302.
+
+Koganezawa, S. and Hara, T. (2001) ‘Development of shear-mode piezoelectric microactuator for precise head positioning, Fujitsu’, *Magazine*, Vol. 37, No. 2.
+
+Lee, S.K. and Esashi, M. (1995) ‘Design of the electrostatic linear microactuator based on the inchworm motion’, *Mechatronics*, Vol. 5, No. 8, pp.9653–9972.
+
+Lee, S-S., Huang, L-S., Kim, C-J. and Wu, M.C. (1998) 2×2 MEMS Fiber Optic Switches with Silicon Sub-mount for Low-Cost Packaging, Department of Electrical Engineering, UCLA.
+
+Lin, Q., Jiang, F., Wang, X-Q., Xu, Y., Han, Z., Tai, Y-C., Lew, J. and Ho, C-M. (2004) ‘Experiments and simulations of MEMS thermal sensors for wall shear-stress measurements in aerodynamic control applications’, *Journal of Micromechanics and Microengineering*, Vol. 14.
+
+
+Pandell, T. and García, E. (1996) ‘Design of a piezoelectric caterpillar motor’, *Proceedings of the ASME Aerospace Division*, Vol. AD-52, pp.627–648.
+
+Sche, S. and Wu, M.L. (2004) ‘Technology impact to the competitiveness of fiber optic communication modules: microopto electro mechanical systems’, *The 13th Annual Wireless and Optical Communication Conference*.
+
+Schienle, M., et al. (2004) ‘A fully electronic DNA sensor with 128 positions and in-pixel A/D conversion’, *ISSCC Digest of Technical Papers*, p.220.
+
+Shen, J., Chandler, A. and Wheeler, C. (2001) MEMS Switch Uses Magnetic Actuation, Microlab Inc.
+
+Solgaard, O. (1992) ‘Integrated semiconductor light modulators for fiber-optic and display applications’, PhD Thesis, Stanford University.
+
+Tans, S.J., Devoret, M.H., Dai, H., Thess, A., Smalley, R., Geerlings, L.J. and Dekker, C. (1997) ‘Individual single-wall carbon nanotubes as quantum wires’, *Nature (London)*, Vol. 386, p.474.
+
+Wright, J.A., Tai, Y-C. and Chang, S-C. (1997) ‘A large-force, fully-integrated MEMS magnetic actuator’, *Technical Digest: 1997 International Conference on Solid-State Sensors and Actuators: Transducers’ 97*, Vol. 2, Chicago, IL, pp.793–796.
+
+Yan, D., Khajepour, A. and Mansour, R. (2003) ‘Modeling of two-hot-arm horizontal thermal actuator’, *Institute of Physics Publishing Journal of Micromechanics and Microengineering*, Vol. 13.
+
+Yan, D., Khajepour, A. and Mansour, R. (2004) ‘Design and modeling of a MEMS bidirectional vertical thermal actuator’, *Institute of Physics Publishing, Journal of Micromechanics Microengineering*, Vol. 14.
+
+
+
+
+
+
+
+
+
+[1]韩生弟.天线结构变形测量中应变传感器的布置研究[D].2013.
+[2]朱艳伟,石新春,但扬清,等.粒子群优化算法在光伏阵列多峰最大功率点跟踪中的应用[J].中国电机工程学报.2012,(4).
+[3]陈岚岚.智能传感器的发展[J].科技资讯.2012,(8).DOI:10.3969/j.issn.1672-3791.2012.08.002 .
+[4]王栋,蔡荭.深亚微米工艺下系统芯片低功耗技术[J].电子与封装.2011,(1).DOI:10.3969/j.issn.1681-1070.2011.01.010 .
+[5]钱忠远.对于传感器的探讨[J].数字技术与应用.2011,(1).39.
+[6]魏春娟,吕剑.集成电路功耗优化技术综述[J].上海电力学院学报.2011,(2).DOI:10.3969/j.issn.1006-4729.2011.02.020 .
+[7]张宏涛,宰光军.关于压力传感器零点热漂移的补偿分析[J].科技信息.2008,(26).DOI:10.3969/j.issn.1001-9960.2008.26.342 .
+[8]刘虹,张岐山.基于微粒群算法的GM（1,1,λ）模型的机械产品寿命预测[J].机械设计.2007,(10).DOI:10.3969/j.issn.1001-2354.2007.10.002 .
+[9]徐懿,李丽,高明伦,等.纳米集成电路静态功耗机理及低功耗设计技术[J].微电子学与计算机.2007,(5).DOI:10.3969/j.issn.1000-7180.2007.05.054 .
+[10]张永新,陆生礼,茆邦琴.门控时钟的低功耗设计技术[J].微电子学与计算机.2004,(1).DOI:10.3969/j.issn.1000-7180.2004.01.006 .
+[11]石海星.硅桥式压阻压力传感器温度补偿电路的设计[D].2012.
+[12]徐扬.时钟边沿控制技术及低功耗触发器研究[D].2010.
+[13]吴平健.进化多目标优化方法研究及在空战决策中的应用[D].2009.
+[14]何琦.基于EAD技术的MCS-51IP核设计及其扩展研究[D].2007.
+[15]阎晓倩.基于单片机的压力/液位控制系统的设计研究[D].2007.
+[16]彭章超.基于Leon3处理器SoC低功耗设计研究[D].2007.
+[17]陶振武.基于群集智能的产品共进化设计方法研究[D].2007.
+[18]孙世鹏.MCU低功耗设计技术及其功耗分析[D].2006.
+[19]徐勇军.集成电路功耗估计及低功耗设计[D].2006.
+[20]李侠.低功耗嵌入式微处理器的VLSI设计研究[D].2004.
+[21]张文竹.智能差压传感器的研制[D].2003.
+[22]林静怡.面向物联网协议的专用处理器指令集设计[D].2014.
+[23]陈虎.面向应用的指令集处理器关键技术研究[D].2011.
+[24]谈荒.8051 IP软核容错技术研究[D].2008.
+[25]樊尚春编著. 传感器技术及应用 [M].北京航空航天大学出版社,2010.
+[26](美)Jan M.Rabaey,(美)Anantha Chandrakasan,(美)Borivoje Nikolic著 周润德等译. 数字集成电路 [M].电子工业出版社,2004.
+[27]万福君 ... [等] 编著. 单片微机原理系统设计与应用 [M].中国科学技术大学出版社,2001.
+[28]王爱英主编. 计算机组成与结构 [M].清华大学出版社,2001.
+[29]Marculescu R.,Ren Z.,Krogh B.H..Hierarchical adaptive dynamic power management[J].IEEE Transactions on Computers.2005,54(4).
+[30]Paolo Ienne,Kubilay Atasu,Laura Pozzi.Automatic Application-Specific Instruction-Set Extensions under Microarchitectural Constraints[J].International Journal of Parallel Programming.2003,31(6).
+	[31]De Micheli G.,Macii E.,Benini L..Designing low-power circuits: practical recipes[J].IEEE circuits & systems magazine.2001,1(1).
+[32]Lang T.,Cortadella J.,Musoll E..Individual flip-flops with gated clocks for low power datapaths[J].IEEE Transactions on Circuits & Systems, II. Express briefs.1997,44(6).
+[33]Tadahiro KURODA,Takayasu SAKURAI.Overview of Low-Power ULSI Circuit Techniques[J].IEICE Transactions on Electronics.1995,E78-C(4).
+[34]Veendrick, H.J.M..Short-circuit dissipation of static CMOS circuitry and its impact on the design of buffer circuits[J].Solid-State Circuits, IEEE Journal of.1984,19(4).468-473.
+[35]John, Philip C.,Abhay Joshi,Pramod Sindhanakeri,等.Signal conditioner for MEMS based piezoresistive sensor[C].2010.
+[36]Yi Leng,Genbao Zhao,Qingxia Li,等.A High Accuracy Signal Conditioning Method and Sensor Calibration System for Wireless Sensor in Automotive Tire Pressure Monitoring System[C].2007.
+[37]D. Helms,E. Schmidt,W. Nebel.Leakage in CMOS Circuits - An Introduction[C].2004.
+[38]Semeraro, G.,Magklis, G.,Balasubramonian, R.,等.Energy-efficient processor design using multiple clock domains with dynamic voltage and frequency scaling[C].2002.
+[39]Fei Li,Lei He.Maximum current estimation considering power gating[C].2001.
+[40]Pankaj Pant,Vivek De,Abhijit Chatterjee.Device-circuit optimization for minimal energy and power consumption in CMOS Random logic networks[C].1997.
+	[41]Chandrakasan, A.P.,Srivastava, M.B.,Institute of Electric and Electronic Engineer.Energy efficient programmable computation[C].1994.
+
+
+
+
+
+
+
+
+
+
+
+
+1 W.H. Ko & C.D. Fung, VLSI and Intelligent Transducers, Sensors & Actuators 
+Vol.2(1982) pp.239. 
+2 S. Middelhoek & A.C. Hoogerwerf, Smart Sensors: When and Where?. Sensors & 
+Actuators Vol.8(1985) pp.39. 
+3 J.M. Giachino, Smart Sensors, Sensors & Actuators Vol.10 (1986) pp.239. 
+4 K.D. Wise, Integrated Sensors; Interfacing Electronics to a Non electronic World, Sensors 
+& Actuators Vol.2 (1982) pp.229. 
+5 J.E. Brignell, Sensors in Distributed Instrumentaion Systems, Sensors & Actuators, Vol.10 
+(1986) pp.249. 
+6 H. Yamasaki, Sensors and Intelligent systems, Y. Hashimoto and W. Day ed. Mathematical 
+and Control Applications in Agriculture and Horticulture (Proc. IFAC/ISHS Workshop 
+Matsuyama 1991) pp.349, Pergamon Press. 
+7 H. Yamasaki, Future Tasks for Measurement Technologies, Journal of The Society of 
+Instrument and Control Engineers (SICE) Voi.31 (1992) pp.925 (in Japanese). 
+8 H. Yamasaki and K. Takahashi, An Intelligent Sound Sensing System Using Sensor Fusion, 
+Digest of Technical Papers Transducers'93 pp 2 1993. 
+9 K. Takahashi and H. Yamasaki: Self-adapting Microphone System, S. Middelhoek ed. 
+Proc. of Transducers'89 Vol.2 pp.610 Elsevier Sequoia S.A. 1990. 
+10 H. Yamasaki: Approaches to Intelligent Sensors, Proe. of the 4th Sensor Symposium, 
+pp.69,(1984). 
+11 J. Van tier Spiegel, Computational Sensors of the 21st Century, Extended Abstracts of 
+International Symposium on Sensors in the 21st Century (1992 Tokyo) pp.51. 
+12 Mackintosh International, Sensors, Vol.24 (1981). 
+13 Digital smart transmitter DSTJ 3000, Journal of SICE 22(12) pp.1054 (1983)(in Japanese). 
+14 K. lkeda et al., Silicon Pressure Sensor with Resonant Strain Gauges Built into 
+Diaphragm, Technical Digest of the 7th Sensor Symposium, Tokyo,(1988), pp.55. 
+15 A. Ikegami and M. Kaneyasu: Olfactory Detection Using Integrated Sensor, Digest of 
+Technical papers for Transducers'85 pp.136 (1985). 
+16 R. Muller and E. Lange, Multidimensional Sensor for Gas Analysis, Sensor and Actuators 
+Vol.9 (1986), pp.39. 
+17 J. Goodman, Introduction To Fourier Optics, McGraw-Hill Physical and Quantum 
+Electronics Series (1968). 
+18 Y. Hiranaka & H. Yamasaki:Envelope Representations of Pinna Impulse Responses 
+Relating to 3-dimensional Ixxvalization of Sound Sources, J. Acoustical Society of 
+America, Vol.73(1983), pp.291.

@@ -1,0 +1,46 @@
+---
+config:
+  layout: elk
+  themeVariables:
+    fontSize: 30px
+  theme: neo
+---
+flowchart TB
+    A["智能感知"] --> B["传感器基础理论"] & C["毫米波雷达原理"] & D["机器学习技术"] & E["智能感知应用"]
+    B -- 提供电磁波理论基础 --> C
+    B -- 定义性能指标 --> E
+    C -- 提供原始数据 --> D
+    C -- 支撑感知能力 --> E
+    D -- 特征提取与决策 --> C
+    D -- 识别与理解 --> E
+    E -- 需求驱动创新 --> C
+    E -- 应用反馈优化 --> D
+    B --> B1["电磁波理论"] & B2["传感器性能指标"] & B3["智能传感器趋势"]
+    C --> C1["毫米波基础"] & C2["雷达方程"] & C3["连续波雷达"] & C4["信号处理"]
+    C1 --> C11["频段划分与特性"]
+    C2 --> C21["目标散射截面"]
+    C3 --> C31["FMCW原理"] & C32["线性调频序列"]
+    C4 --> C41["距离-多普勒分析"] & C42["CFAR检测"]
+    D --> D1["深度学习基础"] & D2["前馈神经网络"] & D3["卷积神经网络"]
+    D1 -- 提供优化方法 --> D2
+    D2 -- 特征学习能力 --> D3
+    D3 -- 图像特征提取 --> E2["人体行为识别"]
+    D3 -- 时序特征处理 --> E3["工业监测"]
+    E --> E1["自动驾驶感知"] & E2 & E3
+    E1 -- 多传感器融合 --> C3
+    E2 -- 微动特征提取 --> C4
+    E3 -- 环境鲁棒性 --> C1
+    C31 -- 距离/速度测量 --> E1
+    C32 -- 高分辨率成像 --> E3
+    C41 -- 运动目标检测 --> E2
+    C42 -- 抗干扰能力 --> E1
+
+     A:::Pine
+     B:::Class_04
+     C:::Class_04
+     D:::Class_04
+    classDef Peach stroke-width:1px, stroke-dasharray:none, stroke:#FBB35A, fill:#FFEFDB, color:#8F632D
+    classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
+    classDef Class_04 fill:#FFE0B2
+    classDef Rose stroke-width:1px, stroke-dasharray:none, stroke:#FF5978, fill:#FFDFE5, color:#8E2236
+    classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF

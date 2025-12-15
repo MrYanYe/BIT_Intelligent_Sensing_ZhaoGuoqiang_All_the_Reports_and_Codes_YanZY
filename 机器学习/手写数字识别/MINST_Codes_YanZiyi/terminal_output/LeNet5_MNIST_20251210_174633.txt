@@ -1,0 +1,85 @@
+Log start time: 2025-12-10T17:46:33.964484
+Working dir: D:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1
+
+Logging started. Log file: D:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\terminal_output\LeNet5_MNIST_20251210_174633.txt
+Using device: cuda
+LeNet5(
+  (conv1): Conv2d(1, 6, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+  (avg_pool1): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
+  (avg_pool2): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (conv3): Conv2d(16, 120, kernel_size=(5, 5), stride=(1, 1))
+  (fc1): Linear(in_features=480, out_features=84, bias=True)
+  (fc2): Linear(in_features=84, out_features=10, bias=True)
+  (activation): ReLU()
+)
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1            [-1, 6, 32, 32]             156
+              ReLU-2            [-1, 6, 32, 32]               0
+         AvgPool2d-3            [-1, 6, 16, 16]               0
+            Conv2d-4           [-1, 16, 12, 12]           2,416
+              ReLU-5           [-1, 16, 12, 12]               0
+         AvgPool2d-6             [-1, 16, 6, 6]               0
+            Conv2d-7            [-1, 120, 2, 2]          48,120
+              ReLU-8            [-1, 120, 2, 2]               0
+            Linear-9                   [-1, 84]          40,404
+             ReLU-10                   [-1, 84]               0
+           Linear-11                   [-1, 10]             850
+================================================================
+Total params: 91,946
+Trainable params: 91,946
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 0.15
+Params size (MB): 0.35
+Estimated Total Size (MB): 0.51
+----------------------------------------------------------------
+Train Epoch: 1 [0/60000 (0%)]	Loss: 2.299209
+Train Epoch: 1 [6400/60000 (11%)]	Loss: 0.269195
+Train Epoch: 1 [12800/60000 (21%)]	Loss: 0.117426
+Train Epoch: 1 [19200/60000 (32%)]	Loss: 0.246800
+Train Epoch: 1 [25600/60000 (43%)]	Loss: 0.242615
+Train Epoch: 1 [32000/60000 (53%)]	Loss: 0.005053
+Traceback (most recent call last):
+  File "d:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\LeNet_5_1.py", line 181, in <module>
+    train_loss, train_acc = train(model, device, train_loader, optimizer, criterion, epoch)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\LeNet_5_1.py", line 127, in train
+    for batch_idx, (data, target) in enumerate(train_loader):
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\utils\data\dataloader.py", line 631, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\utils\data\dataloader.py", line 675, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+            ~~~~~~~~~~~~^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torchvision\datasets\mnist.py", line 146, in __getitem__
+    img = self.transform(img)
+          ^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torchvision\transforms\transforms.py", line 95, in __call__
+    img = t(img)
+          ^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torchvision\transforms\transforms.py", line 277, in forward
+    return F.normalize(tensor, self.mean, self.std, self.inplace)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torchvision\transforms\functional.py", line 350, in normalize
+    return F_t.normalize(tensor, mean=mean, std=std, inplace=inplace)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torchvision\transforms\_functional_tensor.py", line 918, in normalize
+    mean = torch.as_tensor(mean, dtype=dtype, device=tensor.device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

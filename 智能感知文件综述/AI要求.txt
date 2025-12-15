@@ -1,0 +1,47 @@
+我要写一篇有关智能传感器的论文，下面是我的大纲 1.智能传感器发展历程 正文… 2．智能传感器（类型、功能、特点） 3.智能传感器的关键技术（选择一项关键技术，详细论述原理） 4. 智能传感器的应用 
+我现在要写第一部分 1.智能传感器发展历程
+
+请将下面的文章、我给你的文件等整合在一起，并搜索多篇真实文献，进行补充和润色，不要有AI味，降低查重，写字数1000字以上，注意不要分太多层
+
+
+The concept of a sensor is interpreted in different ways: a 
+sensitive device, a vigilant watchman, an analyzer, a sensor, 
+a 
+978-1-6654-3258-0/21/$31.00 ©2021 IEEE
+ If we digress from the details, from what exactly the sensor 
+feels, recognizes, measures, the main thing that remains in 
+common is that: 
+ the sensor has an object of observation;
+  interacting with the object of observation, under its
+ influence the sensor changes its state;
+  and gives signals about it to the user.
+ The object of observation is that material object, process, 
+environment with which the sensor interacts and information 
+about which it is assigned to collect. The object of observation 
+can be, in particular, the entire environment, the surrounding 
+sensor [6,7]. 
+A user receiving, understanding and using signals from the 
+sensor can be a person, another living being, an automatic 
+control, regulation or registration system, for which the 
+signals from the sensor are information about the object of 
+observation. 
+A sensor is a device (device, organ, node) that converts a 
+physical (physicochemical) change in an object of 
+observation, its physical effect into an information signal for 
+the user. 
+Sensors provide the user with the most important objective 
+initial information, on the basis of which it is only possible to 
+predict events, to behave reasonably in the world, to judge 
+how the information models created and used by the user are 
+adequate to the real processes and objects with which he deals 
+[8,9]. 
+One of the first simple sensors were plumb lines - to detect 
+deviations from the vertical, for example, weathercocks, floats 
+in fishing rods, compasses, etc. 
+A functional diagram of a simple sensor is shown in Fig. 
+1. Its main components are a sensitive element and a signaling
+ device. Reacting to this or that influence from the object of
+ observation, the sensitive element changes its state, and the
+ signaling device gives about this some kind of clear signal to
+ the user. This signal is the carrier of information about the
+ object of observation.

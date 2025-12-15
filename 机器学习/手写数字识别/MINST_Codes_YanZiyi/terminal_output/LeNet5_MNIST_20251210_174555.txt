@@ -1,0 +1,42 @@
+Log start time: 2025-12-10T17:45:55.045515
+Working dir: D:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1
+
+Logging started. Log file: D:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\terminal_output\LeNet5_MNIST_20251210_174555.txt
+Using device: cuda
+LeNet5(
+  (conv1): Conv2d(1, 6, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+  (avg_pool1): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
+  (avg_pool2): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (conv3): Conv2d(16, 120, kernel_size=(5, 5), stride=(1, 1))
+  (fc1): Linear(in_features=480, out_features=84, bias=True)
+  (fc2): Linear(in_features=84, out_features=10, bias=True)
+  (activation): ReLU()
+)
+Traceback (most recent call last):
+  File "d:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\LeNet_5_1.py", line 108, in <module>
+    summary(model, (1, 32, 32))
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torchsummary\torchsummary.py", line 72, in summary
+    model(*x)
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Project\python\Intelligrnt_Sensing\Machine_Learning\MINST_1\LeNet_5_1.py", line 93, in forward
+    x = self.activation(self.conv1(x))  # 32x32x6
+                        ^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\module.py", line 1582, in _call_impl
+    result = forward_call(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\conv.py", line 460, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Environment\Anaconda_Env\Intelligent_Sensing_Env_2\Lib\site-packages\torch\nn\modules\conv.py", line 456, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
